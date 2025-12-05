@@ -863,13 +863,19 @@ graph TD
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450/2563eb/ffffff?text=Dashboard+Screenshot)
+![Dashboard](./photos/Dashboard.png)
 
 ### Shopify Integration
-![Settings](https://via.placeholder.com/800x450/10b981/ffffff?text=Shopify+Integration)
+![Shopify Integration](./photos/Integration.png)
 
-### Customer Analytics
-![Customers](https://via.placeholder.com/800x450/8b5cf6/ffffff?text=Customer+Analytics)
+### Customers
+![Customers](./photos/Customers.png)
+
+### Products
+![Products](./photos/Products.png)
+
+### Shopify Dummy Store
+![Shopify Dummy Store](./photos/shopifydummystore.png)
 
 ---
 
